@@ -1,0 +1,13 @@
+Package: Basaet Soil Chemistry
+Title: Soil chemistry data from Basaet (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Alison",
+           family = "Carter",
+           role = aut("aut", "cre"),
+           email = "acarter4@uoregon.edu")
+Description: What the package does (one paragraph)
+License: What license it uses
+ByteCompile: true
+Encoding: UTF-8
+LazyData: true
